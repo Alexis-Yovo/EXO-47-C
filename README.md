@@ -10,3 +10,11 @@ typedef struct Sommet {
 } Sommet;
 
 typedef Sommet *Arbre;
+
+        *
+       / \
+      +   -
+     / \ / \
+    12 15 * 3
+          / \
+         7  10
